@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AplicacionCreciendoSeguro</string>
+    <string-array name="Intereses_array">
+        <item>Entretener</item>
+        <item>Aprender</item>
+    </string-array>
+</resources>
